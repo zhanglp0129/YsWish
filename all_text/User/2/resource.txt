@@ -1,0 +1,10 @@
+primogems 80
+starglitter 0
+acquaint_fate 0
+intertwined_fate 314
+role_amount4 0
+role_amount5 56
+permanent_amount4 0
+permanent_amount5 0
+role_guarantee4 1
+role_guarantee5 0
